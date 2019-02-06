@@ -1,0 +1,12 @@
+Transformar string em int
+int n = (int) txtN.getValue();
+
+Passar valor de int para lbl string
+lblFat.setText(Integer.toString(f));
+
+Vetor em Java:
+int n[] = new int[4];
+n[0] = 3;
+
+outro vetor:
+int n[] = {123,1244,654,3};
